@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="HibernateExample">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../HibernateEx" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../HibernateEx/src" />
+    </SOURCES>
+  </library>
+</component>
